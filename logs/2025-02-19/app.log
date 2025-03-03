@@ -1,0 +1,681 @@
+[W 250219 00:46:04 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:46:14 webSocketTest:70] Connection closed
+[W 250219 00:46:14 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:46:14 webSocketTest:70] Connection closed
+[W 250219 00:46:14 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:46:14 webSocketTest:70] Connection closed
+[W 250219 00:46:14 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:46:46 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:46:56 webSocketTest:64] Connection closed
+[W 250219 00:46:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:46:56 webSocketTest:64] Connection closed
+[W 250219 00:46:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:46:56 webSocketTest:64] Connection closed
+[W 250219 00:46:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:47:38 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:47:48 webSocketTest:64] Connection closed
+[W 250219 00:47:48 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:47:48 webSocketTest:64] Connection closed
+[W 250219 00:47:48 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:47:48 webSocketTest:64] Connection closed
+[W 250219 00:47:48 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:50:27 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:50:37 webSocketTest:64] Connection closed
+[W 250219 00:50:37 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:50:37 webSocketTest:64] Connection closed
+[W 250219 00:50:37 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:50:37 webSocketTest:64] Connection closed
+[W 250219 00:50:37 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:50:54 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:51:04 webSocketTest:65] Connection closed
+[W 250219 00:51:04 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:51:04 webSocketTest:65] Connection closed
+[W 250219 00:51:04 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:51:04 webSocketTest:65] Connection closed
+[W 250219 00:51:04 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:51:08 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:51:18 webSocketTest:66] Connection closed
+[W 250219 00:51:18 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:51:18 webSocketTest:66] Connection closed
+[W 250219 00:51:18 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:51:18 webSocketTest:66] Connection closed
+[W 250219 00:51:18 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:51:25 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:51:35 webSocketTest:67] Connection closed
+[W 250219 00:51:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:51:35 webSocketTest:67] Connection closed
+[W 250219 00:51:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:51:35 webSocketTest:67] Connection closed
+[W 250219 00:51:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 00:56:49 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 00:56:59 webSocketTest:65] Connection closed
+[W 250219 00:56:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:56:59 webSocketTest:65] Connection closed
+[W 250219 00:56:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 00:56:59 webSocketTest:65] Connection closed
+[W 250219 00:56:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 01:06:46 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250219 01:06:56 webSocketTest:65] Connection closed
+[W 250219 01:06:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:06:56 webSocketTest:65] Connection closed
+[W 250219 01:06:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:06:56 webSocketTest:65] Connection closed
+[W 250219 01:06:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 01:18:06 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250219 01:18:16 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[W 250219 01:18:26 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[W 250219 01:18:36 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 4)...
+[W 250219 01:18:47 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 5)...
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:18:57 webSocketTest:65] Connection closed
+[W 250219 01:18:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 01:24:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 01:52:53 yt:40] on open
+[E 250219 01:52:53 smartWebSocketV2:212] Error occurred during subscribe: 'tokens'
+[W 250219 01:52:53 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 01:53:03 yt:40] on open
+[E 250219 01:53:03 smartWebSocketV2:212] Error occurred during subscribe: 'tokens'
+[E 250219 01:53:03 yt:46] Connection closed
+[W 250219 01:53:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:53:03 yt:46] Connection closed
+[W 250219 01:53:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:53:03 yt:46] Connection closed
+[W 250219 01:53:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:53:03 yt:46] Connection closed
+[W 250219 01:53:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:53:03 yt:46] Connection closed
+[W 250219 01:53:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 01:54:32 yt:40] on open
+[E 250219 01:54:32 smartWebSocketV2:212] Error occurred during subscribe: 'tokens'
+[W 250219 01:54:32 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 01:54:43 yt:40] on open
+[E 250219 01:54:43 smartWebSocketV2:212] Error occurred during subscribe: 'tokens'
+[E 250219 01:54:43 yt:46] Connection closed
+[W 250219 01:54:43 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:54:43 yt:46] Connection closed
+[W 250219 01:54:43 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:54:43 yt:46] Connection closed
+[W 250219 01:54:43 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:54:43 yt:46] Connection closed
+[W 250219 01:54:43 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 01:54:43 yt:46] Connection closed
+[W 250219 01:54:43 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 02:06:37 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 02:10:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 02:12:11 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 02:12:45 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 02:19:38 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:25:56 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:28:06 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:29:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:30:44 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:31:26 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:35:12 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250219 10:35:22 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[W 250219 10:35:33 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[W 250219 10:35:43 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 4)...
+[W 250219 10:35:54 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 5)...
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:36:05 webSocketTest:65] Connection closed
+[W 250219 10:36:05 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:37:04 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250219 10:37:15 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[W 250219 10:37:25 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[W 250219 10:37:37 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 4)...
+[W 250219 10:37:48 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 5)...
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:37:59 webSocketTest:65] Connection closed
+[W 250219 10:37:59 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:39:30 webSocketTest:59] on open
+[I 250219 10:39:30 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941770000, 'last_traded_price': 2302855, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:30 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941770000, 'last_traded_price': 2302810, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:31 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941771000, 'last_traded_price': 2302655, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941771000, 'last_traded_price': 2302700, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941772000, 'last_traded_price': 2302770, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941772000, 'last_traded_price': 2302800, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941773000, 'last_traded_price': 2302825, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941773000, 'last_traded_price': 2302800, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:34 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941774000, 'last_traded_price': 2302845, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941774000, 'last_traded_price': 2302765, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941775000, 'last_traded_price': 2302775, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941775000, 'last_traded_price': 2302785, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941776000, 'last_traded_price': 2302790, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941776000, 'last_traded_price': 2302825, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941777000, 'last_traded_price': 2302665, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941777000, 'last_traded_price': 2302675, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:38 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941778000, 'last_traded_price': 2302790, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:39 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941778000, 'last_traded_price': 2302690, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:39 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941779000, 'last_traded_price': 2302730, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941779000, 'last_traded_price': 2302640, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941780000, 'last_traded_price': 2302690, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941780000, 'last_traded_price': 2302780, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941781000, 'last_traded_price': 2302755, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941781000, 'last_traded_price': 2302710, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941782000, 'last_traded_price': 2302750, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941782000, 'last_traded_price': 2302780, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:43 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941783000, 'last_traded_price': 2302740, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941783000, 'last_traded_price': 2302715, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941784000, 'last_traded_price': 2302655, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941784000, 'last_traded_price': 2302625, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941785000, 'last_traded_price': 2302760, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941785000, 'last_traded_price': 2302835, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:46 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941786000, 'last_traded_price': 2302720, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:46 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941786000, 'last_traded_price': 2302740, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:47 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941787000, 'last_traded_price': 2302785, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941787000, 'last_traded_price': 2302815, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941788000, 'last_traded_price': 2302825, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941788000, 'last_traded_price': 2302995, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941789000, 'last_traded_price': 2303025, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941789000, 'last_traded_price': 2303065, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:50 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941790000, 'last_traded_price': 2303030, 'subscription_mode_val': 'LTP'}
+[I 250219 10:39:51 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941790000, 'last_traded_price': 2303055, 'subscription_mode_val': 'LTP'}
+[W 250219 10:39:51 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 10:40:02 webSocketTest:59] on open
+[I 250219 10:40:02 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941802000, 'last_traded_price': 2303185, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:02 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941802000, 'last_traded_price': 2303205, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:03 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941803000, 'last_traded_price': 2303220, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:04 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941803000, 'last_traded_price': 2303285, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:04 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941804000, 'last_traded_price': 2303230, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:05 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941804000, 'last_traded_price': 2303235, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:05 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941805000, 'last_traded_price': 2303290, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:06 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941805000, 'last_traded_price': 2303295, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:06 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941806000, 'last_traded_price': 2303260, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:06 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941806000, 'last_traded_price': 2303160, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:07 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941807000, 'last_traded_price': 2303150, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:08 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941807000, 'last_traded_price': 2303210, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:08 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941808000, 'last_traded_price': 2303245, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:09 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941808000, 'last_traded_price': 2303225, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:09 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941809000, 'last_traded_price': 2303275, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:09 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941809000, 'last_traded_price': 2303235, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:10 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941810000, 'last_traded_price': 2303300, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:10 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941810000, 'last_traded_price': 2303340, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:11 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941811000, 'last_traded_price': 2303330, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:12 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941811000, 'last_traded_price': 2303335, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:12 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941812000, 'last_traded_price': 2303355, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:13 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941812000, 'last_traded_price': 2303315, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:13 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941813000, 'last_traded_price': 2303300, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:13 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941813000, 'last_traded_price': 2303300, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:14 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941814000, 'last_traded_price': 2303345, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:15 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941814000, 'last_traded_price': 2303345, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:15 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941815000, 'last_traded_price': 2303370, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941815000, 'last_traded_price': 2303325, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941816000, 'last_traded_price': 2303365, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:17 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941816000, 'last_traded_price': 2303305, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:17 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941817000, 'last_traded_price': 2303330, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:17 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941817000, 'last_traded_price': 2303370, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:18 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941818000, 'last_traded_price': 2303370, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:18 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941818000, 'last_traded_price': 2303395, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:19 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941819000, 'last_traded_price': 2303400, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941819000, 'last_traded_price': 2303400, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941820000, 'last_traded_price': 2303360, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941820000, 'last_traded_price': 2303385, 'subscription_mode_val': 'LTP'}
+[W 250219 10:40:21 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250219 10:40:31 webSocketTest:59] on open
+[I 250219 10:40:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941831000, 'last_traded_price': 2303540, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941832000, 'last_traded_price': 2303550, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941832000, 'last_traded_price': 2303585, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941833000, 'last_traded_price': 2303540, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941833000, 'last_traded_price': 2303505, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:34 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941834000, 'last_traded_price': 2303480, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:34 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941834000, 'last_traded_price': 2303490, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941835000, 'last_traded_price': 2303565, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941835000, 'last_traded_price': 2303595, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941836000, 'last_traded_price': 2303600, 'subscription_mode_val': 'LTP'}
+[I 250219 10:40:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941836000, 'last_traded_price': 2303535, 'subscription_mode_val': 'LTP'}
+[W 250219 10:40:37 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 3)...
+[I 250219 10:41:15 webSocketTest:59] on open
+[I 250219 10:41:15 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941875000, 'last_traded_price': 2302980, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941875000, 'last_traded_price': 2303015, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941876000, 'last_traded_price': 2302900, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941876000, 'last_traded_price': 2302920, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:17 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941877000, 'last_traded_price': 2302845, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:17 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941877000, 'last_traded_price': 2302895, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:18 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941878000, 'last_traded_price': 2302880, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:19 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941878000, 'last_traded_price': 2302885, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:19 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941879000, 'last_traded_price': 2302890, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941879000, 'last_traded_price': 2302875, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941880000, 'last_traded_price': 2302870, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941880000, 'last_traded_price': 2302615, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:21 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941881000, 'last_traded_price': 2302635, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:21 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941881000, 'last_traded_price': 2302685, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:22 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941882000, 'last_traded_price': 2302740, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:23 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941882000, 'last_traded_price': 2302810, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:23 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941883000, 'last_traded_price': 2302710, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:24 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941883000, 'last_traded_price': 2302805, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:24 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941884000, 'last_traded_price': 2302795, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:24 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941884000, 'last_traded_price': 2302830, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:25 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941885000, 'last_traded_price': 2302730, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:25 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941885000, 'last_traded_price': 2302735, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:26 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941886000, 'last_traded_price': 2302750, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:26 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941886000, 'last_traded_price': 2302780, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:27 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941887000, 'last_traded_price': 2302735, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:27 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941887000, 'last_traded_price': 2302800, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:28 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941888000, 'last_traded_price': 2302865, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:28 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941888000, 'last_traded_price': 2302835, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:29 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941889000, 'last_traded_price': 2302815, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:30 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941889000, 'last_traded_price': 2302845, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:30 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941890000, 'last_traded_price': 2302880, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:31 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941890000, 'last_traded_price': 2302905, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:31 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941891000, 'last_traded_price': 2302945, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941891000, 'last_traded_price': 2302905, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941892000, 'last_traded_price': 2302945, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941892000, 'last_traded_price': 2302910, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941893000, 'last_traded_price': 2302885, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941893000, 'last_traded_price': 2302900, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:34 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941894000, 'last_traded_price': 2302920, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941894000, 'last_traded_price': 2302980, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941895000, 'last_traded_price': 2302960, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941895000, 'last_traded_price': 2303030, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941896000, 'last_traded_price': 2303045, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941896000, 'last_traded_price': 2303040, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941897000, 'last_traded_price': 2303005, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941897000, 'last_traded_price': 2303060, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:38 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941898000, 'last_traded_price': 2303030, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:39 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941898000, 'last_traded_price': 2303040, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:39 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941899000, 'last_traded_price': 2303055, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941899000, 'last_traded_price': 2303065, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941900000, 'last_traded_price': 2302955, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941900000, 'last_traded_price': 2302965, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941901000, 'last_traded_price': 2303120, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941901000, 'last_traded_price': 2303160, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941902000, 'last_traded_price': 2303170, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941902000, 'last_traded_price': 2303150, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:43 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941903000, 'last_traded_price': 2303105, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:43 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941903000, 'last_traded_price': 2303150, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941904000, 'last_traded_price': 2303125, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941904000, 'last_traded_price': 2303125, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941905000, 'last_traded_price': 2303190, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941905000, 'last_traded_price': 2303165, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:46 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941906000, 'last_traded_price': 2303200, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:47 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941906000, 'last_traded_price': 2303240, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:47 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941907000, 'last_traded_price': 2303245, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941907000, 'last_traded_price': 2303255, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941908000, 'last_traded_price': 2303125, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941908000, 'last_traded_price': 2303105, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941909000, 'last_traded_price': 2303090, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941909000, 'last_traded_price': 2303145, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:50 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941910000, 'last_traded_price': 2303155, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:50 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941910000, 'last_traded_price': 2303180, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:51 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941911000, 'last_traded_price': 2303180, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:52 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941911000, 'last_traded_price': 2303190, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:52 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941912000, 'last_traded_price': 2303175, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:52 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941912000, 'last_traded_price': 2303135, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:53 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941913000, 'last_traded_price': 2303100, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:53 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941913000, 'last_traded_price': 2303095, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:54 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941914000, 'last_traded_price': 2303130, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941914000, 'last_traded_price': 2303105, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941915000, 'last_traded_price': 2303105, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941915000, 'last_traded_price': 2303065, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:56 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941916000, 'last_traded_price': 2303075, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:56 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941916000, 'last_traded_price': 2303105, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:57 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941917000, 'last_traded_price': 2303115, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:57 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941917000, 'last_traded_price': 2303080, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:58 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941918000, 'last_traded_price': 2303095, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:59 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941918000, 'last_traded_price': 2303120, 'subscription_mode_val': 'LTP'}
+[I 250219 10:41:59 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941919000, 'last_traded_price': 2303125, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:00 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941919000, 'last_traded_price': 2303085, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:00 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941920000, 'last_traded_price': 2303205, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:00 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941920000, 'last_traded_price': 2303205, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:01 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941921000, 'last_traded_price': 2303070, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:01 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941921000, 'last_traded_price': 2303115, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:02 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941922000, 'last_traded_price': 2303145, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:02 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941922000, 'last_traded_price': 2303150, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:03 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941923000, 'last_traded_price': 2303175, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:04 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941923000, 'last_traded_price': 2303170, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:04 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941924000, 'last_traded_price': 2303260, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:04 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941924000, 'last_traded_price': 2303315, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:05 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941925000, 'last_traded_price': 2303295, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:05 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941925000, 'last_traded_price': 2303320, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:06 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941926000, 'last_traded_price': 2303360, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:07 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941926000, 'last_traded_price': 2303405, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:07 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941927000, 'last_traded_price': 2303425, 'subscription_mode_val': 'LTP'}
+[E 250219 10:42:08 webSocketTest:65] Connection closed
+[W 250219 10:42:08 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:42:08 webSocketTest:65] Connection closed
+[W 250219 10:42:08 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:42:16 webSocketTest:59] on open
+[I 250219 10:42:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941936000, 'last_traded_price': 2303365, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941936000, 'last_traded_price': 2303330, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:17 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941937000, 'last_traded_price': 2303335, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:18 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941937000, 'last_traded_price': 2303270, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:18 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941938000, 'last_traded_price': 2303300, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:19 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941938000, 'last_traded_price': 2303245, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:19 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941939000, 'last_traded_price': 2303270, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941939000, 'last_traded_price': 2303180, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941940000, 'last_traded_price': 2303120, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:20 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941940000, 'last_traded_price': 2303135, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:21 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941941000, 'last_traded_price': 2303195, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:22 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941941000, 'last_traded_price': 2303210, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:22 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941942000, 'last_traded_price': 2303125, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:23 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941942000, 'last_traded_price': 2303210, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:23 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941943000, 'last_traded_price': 2303195, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:24 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941943000, 'last_traded_price': 2303235, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:24 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941944000, 'last_traded_price': 2303225, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:24 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941944000, 'last_traded_price': 2303155, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:25 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941945000, 'last_traded_price': 2303140, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:25 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941945000, 'last_traded_price': 2303245, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:26 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941946000, 'last_traded_price': 2303140, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:26 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941946000, 'last_traded_price': 2303150, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:27 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941947000, 'last_traded_price': 2303165, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:28 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941947000, 'last_traded_price': 2303240, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:28 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941948000, 'last_traded_price': 2303195, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:28 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941948000, 'last_traded_price': 2303205, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:29 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941949000, 'last_traded_price': 2303155, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:30 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941949000, 'last_traded_price': 2303200, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:30 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941950000, 'last_traded_price': 2303145, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:31 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941950000, 'last_traded_price': 2303175, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:31 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941951000, 'last_traded_price': 2303225, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941951000, 'last_traded_price': 2303190, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941952000, 'last_traded_price': 2303280, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941952000, 'last_traded_price': 2303220, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941953000, 'last_traded_price': 2303310, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941953000, 'last_traded_price': 2303265, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:34 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941954000, 'last_traded_price': 2303255, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941954000, 'last_traded_price': 2303265, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941955000, 'last_traded_price': 2303240, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941955000, 'last_traded_price': 2303235, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941956000, 'last_traded_price': 2303220, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941956000, 'last_traded_price': 2303245, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941957000, 'last_traded_price': 2303260, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941957000, 'last_traded_price': 2303210, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:38 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941958000, 'last_traded_price': 2303215, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:38 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941958000, 'last_traded_price': 2303205, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:39 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941959000, 'last_traded_price': 2303335, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941959000, 'last_traded_price': 2303355, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941960000, 'last_traded_price': 2303295, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941960000, 'last_traded_price': 2303290, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941961000, 'last_traded_price': 2303325, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941961000, 'last_traded_price': 2303320, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941962000, 'last_traded_price': 2303305, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941962000, 'last_traded_price': 2303345, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:43 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941963000, 'last_traded_price': 2303335, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941963000, 'last_traded_price': 2303315, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941964000, 'last_traded_price': 2303305, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941964000, 'last_traded_price': 2303345, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941965000, 'last_traded_price': 2303335, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:46 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941965000, 'last_traded_price': 2303370, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:46 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941966000, 'last_traded_price': 2303230, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:47 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941966000, 'last_traded_price': 2303250, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:47 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941967000, 'last_traded_price': 2303250, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941967000, 'last_traded_price': 2303240, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941968000, 'last_traded_price': 2303225, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:48 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941968000, 'last_traded_price': 2303290, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941969000, 'last_traded_price': 2303300, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:49 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941969000, 'last_traded_price': 2303310, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:50 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941970000, 'last_traded_price': 2303285, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:50 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941970000, 'last_traded_price': 2303265, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:51 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941971000, 'last_traded_price': 2303255, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:52 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941971000, 'last_traded_price': 2303280, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:52 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941972000, 'last_traded_price': 2303295, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:53 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941972000, 'last_traded_price': 2303305, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:53 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941973000, 'last_traded_price': 2303235, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:53 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941973000, 'last_traded_price': 2303225, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:54 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941974000, 'last_traded_price': 2303235, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941974000, 'last_traded_price': 2303285, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941975000, 'last_traded_price': 2303225, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941975000, 'last_traded_price': 2303260, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:56 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941976000, 'last_traded_price': 2303210, 'subscription_mode_val': 'LTP'}
+[I 250219 10:42:56 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739941976000, 'last_traded_price': 2303170, 'subscription_mode_val': 'LTP'}
+[E 250219 10:42:57 webSocketTest:65] Connection closed
+[W 250219 10:42:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:42:57 webSocketTest:65] Connection closed
+[W 250219 10:42:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:44:52 webSocketTest:60] on open
+[I 250219 10:44:52 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942092000, 'last_traded_price': 2302010, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:53 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942092000, 'last_traded_price': 2302010, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:54 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942093000, 'last_traded_price': 2301975, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:55 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942093000, 'last_traded_price': 2301980, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:56 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942094000, 'last_traded_price': 2302010, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:57 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942094000, 'last_traded_price': 2301990, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:58 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942095000, 'last_traded_price': 2301955, 'subscription_mode_val': 'LTP'}
+[I 250219 10:44:59 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942095000, 'last_traded_price': 2301995, 'subscription_mode_val': 'LTP'}
+[I 250219 10:45:00 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942096000, 'last_traded_price': 2301975, 'subscription_mode_val': 'LTP'}
+[I 250219 10:45:01 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942096000, 'last_traded_price': 2301985, 'subscription_mode_val': 'LTP'}
+[E 250219 10:45:01 webSocketTest:66] Connection closed
+[W 250219 10:45:01 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:45:01 webSocketTest:66] Connection closed
+[W 250219 10:45:01 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250219 10:49:34 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:51:32 webSocketTest:60] on open
+[I 250219 10:51:32 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942492000, 'last_traded_price': 2298340, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:33 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942492000, 'last_traded_price': 2298350, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:34 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942493000, 'last_traded_price': 2298345, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:35 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942493000, 'last_traded_price': 2298335, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:36 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942494000, 'last_traded_price': 2298220, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:37 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942494000, 'last_traded_price': 2298125, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:38 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942495000, 'last_traded_price': 2297855, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:39 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942495000, 'last_traded_price': 2297760, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942496000, 'last_traded_price': 2297695, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942496000, 'last_traded_price': 2297630, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942497000, 'last_traded_price': 2297580, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:43 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942497000, 'last_traded_price': 2297600, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:44 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942498000, 'last_traded_price': 2297590, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:45 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942498000, 'last_traded_price': 2297630, 'subscription_mode_val': 'LTP'}
+[I 250219 10:51:46 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942499000, 'last_traded_price': 2297650, 'subscription_mode_val': 'LTP'}
+[E 250219 10:51:46 webSocketTest:66] Connection closed
+[W 250219 10:51:46 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:51:46 webSocketTest:66] Connection closed
+[W 250219 10:51:46 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:58:41 webSocketTest:62] on open
+[I 250219 10:58:41 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942921000, 'last_traded_price': 2293645, 'subscription_mode_val': 'LTP'}
+[E 250219 10:58:41 webSocketTest:68] Connection closed
+[W 250219 10:58:41 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:58:41 webSocketTest:68] Connection closed
+[W 250219 10:58:41 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:59:06 webSocketTest:62] on open
+[I 250219 10:59:06 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942945000, 'last_traded_price': 2293105, 'subscription_mode_val': 'LTP'}
+[W 250219 10:59:06 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 10:59:16 webSocketTest:62] on open
+[I 250219 10:59:16 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942956000, 'last_traded_price': 2293310, 'subscription_mode_val': 'LTP'}
+[W 250219 10:59:16 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 2)...
+[I 250219 10:59:27 webSocketTest:62] on open
+[I 250219 10:59:27 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942966000, 'last_traded_price': 2293245, 'subscription_mode_val': 'LTP'}
+[E 250219 10:59:27 webSocketTest:68] Connection closed
+[W 250219 10:59:27 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:59:27 webSocketTest:68] Connection closed
+[W 250219 10:59:27 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:59:27 webSocketTest:68] Connection closed
+[W 250219 10:59:27 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:59:27 webSocketTest:68] Connection closed
+[W 250219 10:59:27 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 10:59:42 webSocketTest:62] on open
+[I 250219 10:59:42 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739942982000, 'last_traded_price': 2292650, 'subscription_mode_val': 'LTP'}
+[E 250219 10:59:42 webSocketTest:68] Connection closed
+[W 250219 10:59:42 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 10:59:42 webSocketTest:68] Connection closed
+[W 250219 10:59:42 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:00:40 webSocketTest:62] on open
+[I 250219 11:00:40 webSocketTest:45] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '99926000', 'sequence_number': 0, 'exchange_timestamp': 1739943039000, 'last_traded_price': 2292290, 'subscription_mode_val': 'LTP'}
+[E 250219 11:00:40 webSocketTest:68] Connection closed
+[W 250219 11:00:40 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 11:00:40 webSocketTest:68] Connection closed
+[W 250219 11:00:40 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:04:32 webSocketTest:64] WebSocket Connection Opened
+[I 250219 11:06:56 webSocketTest:64] WebSocket Connection Opened
+[I 250219 11:08:25 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:09:04 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:11:34 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:12:21 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:14:15 webSocketTest:65] WebSocket Connection Opened
+[W 250219 11:14:22 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 11:14:32 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:15:15 webSocketTest:65] WebSocket Connection Opened
+[E 250219 11:15:25 webSocketTest:71] WebSocket Error: Connection closed
+[W 250219 11:15:25 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:16:41 webSocketTest:65] WebSocket Connection Opened
+[W 250219 11:18:39 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 11:18:49 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:19:23 webSocketTest:65] WebSocket Connection Opened
+[W 250219 11:22:29 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 11:22:39 webSocketTest:65] WebSocket Connection Opened
+[I 250219 11:23:14 webSocketTest:59] WebSocket Opened
+[W 250219 11:23:19 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 11:23:30 webSocketTest:59] WebSocket Opened
+[I 250219 11:25:13 webSocketTest:59] WebSocket Opened
+[I 250219 11:28:55 webSocketTest:62] WebSocket Opened
+[I 250219 11:29:58 webSocketTest:59] WebSocket Opened
+[I 250219 11:33:38 webSocketTest:63] WebSocket Opened
+[I 250219 11:36:30 webSocketTest:59] WebSocket Opened
+[W 250219 11:36:46 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 11:36:56 webSocketTest:59] WebSocket Opened
+[I 250219 11:40:17 webSocketTest:59] WebSocket Opened
+[W 250219 11:40:21 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[I 250219 11:40:32 webSocketTest:59] WebSocket Opened
+[I 250219 11:40:34 webSocketTest:59] WebSocket Opened
+[E 250219 11:40:39 webSocketTest:63] Connection closed
+[W 250219 11:40:39 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 11:40:39 webSocketTest:63] Connection closed
+[W 250219 11:40:39 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:47:48 webSocketTest:75] WebSocket Opened
+[I 250219 11:48:19 webSocketTest:75] WebSocket Opened
+[I 250219 11:50:02 webSocketTest:75] WebSocket Opened
+[I 250219 11:52:13 webSocketTest:75] WebSocket Opened
+[E 250219 11:52:25 webSocketTest:79] Connection closed
+[W 250219 11:52:25 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:52:44 webSocketTest:75] WebSocket Opened
+[E 250219 11:53:00 webSocketTest:79] Connection closed
+[W 250219 11:53:00 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:54:32 webSocketTest:76] WebSocket Opened
+[E 250219 11:57:41 webSocketTest:80] Connection closed
+[W 250219 11:57:41 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 11:57:50 webSocketTest:76] WebSocket Opened
+[E 250219 11:58:17 webSocketTest:80] Connection closed
+[W 250219 11:58:17 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:02:52 webSocketTest:76] WebSocket Opened
+[I 250219 12:08:58 webSocketTest:76] WebSocket Opened
+[E 250219 12:09:42 webSocketTest:80] Connection closed
+[W 250219 12:09:42 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:19:43 webSocketTest:97] WebSocket Opened
+[E 250219 12:19:53 webSocketTest:101] Connection closed
+[W 250219 12:19:53 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:20:00 webSocketTest:97] WebSocket Opened
+[I 250219 12:21:51 webSocketTest:97] WebSocket Opened
+[I 250219 12:25:19 webSocketTest:97] WebSocket Opened
+[E 250219 12:25:51 webSocketTest:101] Connection closed
+[W 250219 12:25:51 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:26:13 webSocketTest:97] WebSocket Opened
+[I 250219 12:32:53 webSocketTest:97] WebSocket Opened
+[E 250219 12:33:33 webSocketTest:101] Connection closed
+[W 250219 12:33:33 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:36:02 webSocketTest:97] WebSocket Opened
+[E 250219 12:37:58 webSocketTest:101] Connection closed
+[W 250219 12:37:58 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:40:17 webSocketTest:97] WebSocket Opened
+[E 250219 12:41:43 webSocketTest:101] Connection closed
+[W 250219 12:41:43 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 12:46:53 webSocketTest:97] WebSocket Opened
+[E 250219 12:47:17 webSocketTest:101] Connection closed
+[W 250219 12:47:17 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 13:02:43 webSocketTest:97] WebSocket Opened
+[E 250219 13:04:15 webSocketTest:101] Connection closed
+[W 250219 13:04:15 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 13:06:53 webSocketTest:97] WebSocket Opened
+[E 250219 13:08:49 webSocketTest:101] Connection closed
+[W 250219 13:08:49 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 13:09:33 webSocketTest:97] WebSocket Opened
+[I 250219 13:11:19 webSocketTest:97] WebSocket Opened
+[E 250219 13:12:10 webSocketTest:101] Connection closed
+[W 250219 13:12:10 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 13:14:28 webSocketTest:97] WebSocket Opened
+[E 250219 13:14:45 webSocketTest:101] Connection closed
+[W 250219 13:14:45 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 13:16:17 webSocketTest:97] WebSocket Opened
+[E 250219 13:17:01 webSocketTest:101] Connection closed
+[W 250219 13:17:01 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 13:17:08 webSocketTest:97] WebSocket Opened
+[I 250219 15:24:51 webSocketTest:97] WebSocket Opened
+[I 250219 15:33:52 webSocketTest:97] WebSocket Opened
+[I 250219 15:34:44 webSocketTest:97] WebSocket Opened
+[E 250219 15:34:48 webSocketTest:101] Connection closed
+[W 250219 15:34:48 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 15:54:43 webSocketTest:99] WebSocket Opened
+[E 250219 15:59:08 webSocketTest:103] Connection closed
+[W 250219 15:59:08 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 16:20:12 webSocketTest:99] WebSocket Opened
+[E 250219 16:20:41 webSocketTest:103] Connection closed
+[W 250219 16:20:41 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 16:20:50 webSocketTest:99] WebSocket Opened
+[I 250219 16:21:52 webSocketTest:99] WebSocket Opened
+[I 250219 16:23:25 webSocketTest:99] WebSocket Opened
+[I 250219 16:28:09 webSocketTest:99] WebSocket Opened
+[E 250219 16:28:41 webSocketTest:103] Connection closed
+[W 250219 16:28:41 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 16:29:12 webSocketTest:99] WebSocket Opened
+[E 250219 16:30:29 webSocketTest:103] Connection closed
+[W 250219 16:30:29 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 16:33:53 webSocketTest:100] WebSocket Opened
+[E 250219 16:34:35 webSocketTest:104] Connection closed
+[W 250219 16:34:35 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 16:36:34 webSocketTest:100] WebSocket Opened
+[I 250219 16:43:36 webSocketTest:100] WebSocket Opened
+[I 250219 16:44:34 webSocketTest:100] WebSocket Opened
+[E 250219 16:46:46 webSocketTest:104] Connection closed
+[W 250219 16:46:46 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 16:47:08 webSocketTest:100] WebSocket Opened
+[I 250219 17:04:32 webSocketTest:97] WebSocket Opened
+[I 250219 17:04:53 webSocketTest:97] WebSocket Opened
+[E 250219 17:05:02 webSocketTest:101] Connection closed
+[W 250219 17:05:02 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 17:23:05 webSocketTest:97] WebSocket Opened
+[I 250219 17:23:39 webSocketTest:97] WebSocket Opened
+[I 250219 17:25:52 webSocketTest:97] WebSocket Opened
+[E 250219 22:37:21 smartConnect:221] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'a8:93:4a:b4:1e:da', 'Accept': 'application/json', 'X-PrivateKey': '1nDyPvAR', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'G227827', 'password': '4163', 'totp': '873636'}, Response: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Max retries exceeded with url: /rest/auth/angelbroking/user/v1/loginByPassword (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002152034AA20>: Failed to resolve 'apiconnect.angelone.in' ([Errno 11001] getaddrinfo failed)"))
+[I 250219 22:38:06 webSocketTest:97] WebSocket Opened
+[E 250219 22:38:46 webSocketTest:101] Connection closed
+[W 250219 22:38:46 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 22:38:51 webSocketTest:97] WebSocket Opened
+[E 250219 22:39:04 webSocketTest:101] Connection closed
+[W 250219 22:39:04 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 22:39:09 webSocketTest:97] WebSocket Opened
+[I 250219 22:40:25 webSocketTest:97] WebSocket Opened
+[I 250219 22:41:09 webSocketTest:97] WebSocket Opened
+[I 250219 22:42:59 webSocketTest:97] WebSocket Opened
+[E 250219 22:43:23 webSocketTest:101] Connection closed
+[W 250219 22:43:23 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 22:43:23 webSocketTest:101] Connection closed
+[W 250219 22:43:23 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250219 22:43:47 webSocketTest:97] WebSocket Opened
+[I 250219 22:45:07 webSocketTest:97] WebSocket Opened
+[I 250219 22:56:30 webSocketTest:97] WebSocket Opened
+[I 250219 22:58:02 webSocketTest:97] WebSocket Opened
+[E 250219 23:00:16 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid apiKey. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'a8:93:4a:b4:1e:da', 'Accept': 'application/json', 'X-PrivateKey': '1nDyPvAR', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'G227827', 'password': '4163', 'totp': '248837'}, Response: {'message': 'Invalid apiKey', 'errorcode': 'AB1053', 'status': False, 'data': None}
+[I 250219 23:00:45 webSocketTest:97] WebSocket Opened
+[I 250219 23:01:06 webSocketTest:97] WebSocket Opened
+[I 250219 23:03:19 webSocketTest:97] WebSocket Opened
+[E 250219 23:09:47 webSocketTest:101] Connection closed
+[W 250219 23:09:47 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[E 250219 23:09:47 webSocketTest:101] Connection closed
+[W 250219 23:09:47 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
